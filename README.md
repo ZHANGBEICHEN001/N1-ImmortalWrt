@@ -1,5 +1,6 @@
 # 项目简介
 本固件适配斐讯 N1 旁路由模式，追求轻量（不具备 PPPoE、WiFi 相关功能）<br>
+本固件来自https://github.com/Winnie-0721/N1-ImmortalWrt 仅删除DOCEKER
 每周一0点自动开始打包<br>
 如遇问题可参考本项目Wiki<br>
 固件包含完整 IPv6 支持，以及下列 luci-app：<br>
